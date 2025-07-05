@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 📊 Statistic Calculator
 
