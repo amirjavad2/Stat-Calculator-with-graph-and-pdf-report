@@ -1,4 +1,4 @@
-```markdown
+---```markdown
 # 📊 Statistic Calculator
 
 A powerful, Python-based statistics pipeline that takes in raw float data, builds a full frequency distribution table, calculates statistical values (mean, median, standard deviation, variance), generates visualizations (line, bar, histogram, scatter, pie), and exports it all into a clean PDF report.
